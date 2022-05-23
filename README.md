@@ -1,2 +1,3 @@
-# cats_student_authority
-Presentation for CATS discussion at Cal Poly
+# Building Student Authority in the Classroom
+
+Presentation materials for CATS discussion at Cal Poly
