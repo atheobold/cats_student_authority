@@ -68,6 +68,11 @@ style_duo_accent(
 
 ## .larger[.grey[.hand[Welcome!]]]
 
+.pull-left[
+![](images/bumi_pride.JPG)
+
+]
+.pull-right[
 .center[
 .large[
 .honey[
@@ -76,6 +81,7 @@ Link for slides & resources:
 
 🔗 [https://bit.ly/allisonscats](https://bit.ly/allisonscats)
 ]]
+]
 
 ---
 
@@ -165,70 +171,6 @@ class: center, middle, inverse
 class: middle
 
 <center>
-.larger[.dark-blue[Terri & Bonnie]]  
-</br>
-.large[(Bishop, 2012)]
-</center>
-
---
-
-.pull-left[
- Terri enacted the identity of the mathematical expert.
-
-- Speaking with authority 
-- Taking a position of superiority
-<!-- Requesting information from Bonnie -->
-- Controlling the group's activity and the uptake of ideas
-<!-- Of 15 instances, 13 Terri controlled  -->
-- Inserting Bonnie to save face
-<!-- Telling her to raise her hand when they weren't done -->
-]
-
---
-
-.pull-right[
-Bonnie enacted the identity of mathematically helpless. 
-
-- Requesting information
-<!-- Twice as often as Terri -->
-- Rarely asked questions or initiated solutions
-- Positions herself as "dumb"
-]
-
----
-
-class: middle
-
-<center>
-.large[***Meta-level intentions are likely to reside in the mechanisms of
-interaction rather than in their explicit contents.*** (Sfard, 2001)]
-</center>
-
---
-
-.pull-left[
-.large[.gray[Bonnie]]
-- 80% of Bonnie's discursive moves were to provide information to Terri  
-
-- 1 in 8 of her responses would be corrected, rejected, reprimanded, or doubted
-]
-
---
-
-.pull-right[
-.large[.gray[Terri]]
-
-- Primary initiator & talks twice as much 
-
-- Determines who gets the floor by responding to herself & selectively
-responding to Bonnie
-]
-
----
-
-class: middle
-
-<center>
 .larger[.bayberry[Brianna & Kofi]]
 </br>
 .large[(Langer-Osuna, 2011)]
@@ -257,16 +199,18 @@ class: middle
 
 class: middle, center
 
-<center>
-.large[***Boys don't listen to girls. It's not just in the classroom, it's
-outside, too.*** (Brianna)]
-</center>
+.pull-left[
+.large[***Boys don't listen to girls. It's not just in the classroom, it's outside,
+too.*** (Brianna)]
+]
 
 --
 
-```{r, echo = FALSE, out.height = "60%"}
+.pull-right[
+```{r, echo = FALSE, out.width = "100%"}
 knitr::include_graphics("images/trajectories.jpg")
 ```
+]
 
 ---
 
@@ -281,6 +225,11 @@ class: middle
 --
 
 ![](images/anna_jerome.png)
+
+--
+<center>
+***Meta-level intentions are likely to reside in the mechanisms of
+interaction rather than in their explicit contents.*** (Sfard, 2001)
 
 ---
 
@@ -362,6 +311,38 @@ class: middle
 
 --
 
+.pull-left[
+</br>
+</br>
+.large[.rhubarb[Groupworthy tasks!]]
+]
+
+.pull-right[
+</br>
+- Open-ended, uncertain tasks
+- Multiple entry points
+- Require multiple abilities to complete
+- Intellectually important content
+]
+
+---
+
+class: middle
+
+<center>
+.larger[Structured participation -- Group roles]
+
+
+![](images/team_roles.png)
+
+---
+
+class: middle
+
+<center>
+.larger[.bayberry[Setting Discourse Expectations]]
+</center>
+
 .pull-left[.large[Establishing classroom norms]
 
   * Helping peers means explaining thinking, not giving answers or doing work
@@ -383,34 +364,11 @@ class: middle
 
 ---
 
-class: middle
+class: center, middle, inverse
 
-<center>
-.larger[Structured participation -- Group roles]
-
-
-![](images/team_roles.png)
-
----
-
-class: middle
-
-<center>
-.larger[.bayberry[Multifaceted tasks -- Require multiple competencies]]
-</center>
-
-.pull-left[
-</br>
-</br>
-.large[.rhubarb[Groupworthy tasks!]]
-]
-
-.pull-right[
-</br>
-- Open-ended, uncertain tasks
-- Multiple entry points
-- Require multiple abilities to complete
-- Intellectually important content
+.larger[.honey[The freer we are to make decisions about ourselves and the
+worlds around us, the greater our responsibility.]
+Sfard & Prusak (2005)
 ]
 
 ---
@@ -429,17 +387,27 @@ diminishing student identities.]]
 
 class: center, middle, inverse
 
-.larger[.mango[Let's end with a conversation...]]
+.pull-left[
 
---
+```{r, out.height = c("30%", "70%"), echo = FALSE}
+knitr::include_graphics("images/bumi_sun.JPG")
+knitr::include_graphics("images/bumi_garden.JPG")
+```
+]
 
-.large[What successes have had when structuring equitable group collaborations?]
+.pull-right[
+</br>
+</br>
+![](images/zuko_bumi.jpg)
+]
 
 ---
 
 class: center, middle, inverse
 
-.larger[.honey[The freer we are to make decisions about ourselves and the
-worlds around us, the greater our responsibility.]
-Sfard & Prusak (2005)
-]
+.larger[.mango[Let's end with a conversation...]]
+
+.large[What successes have had when structuring equitable group collaborations?]
+
+
+
