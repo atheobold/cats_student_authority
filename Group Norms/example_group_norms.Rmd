@@ -1,0 +1,33 @@
+---
+title: "Group Norms for Allison's Classrooms"
+output: html_document
+---
+
+1. Zero tolerance for any "ism": racism, sexism, homophobia, transphobia,
+ageism, ableism, xenophobia, religious prejudice
+
+2. Speak for yourself and your own experience -- use “I” statements
+
+* When we generalize from our experience we risk shutting other people down.
+
+3. Respect one another
+
+4. Listen respectfully when others are speaking, even if you don’t agree.
+
+5. One speaker at a time.
+
+6. Be gentle with each other when disagreeing.
+
+7. Non-judgmental 
+
+  * There are no "dumb" questions
+  
+8. Take space, make space -- Share the air  
+
+  * Challenge yourself to take space if you tend to be quieter, 
+  make space if you find yourself talking a lot or otherwise taking up space.  
+  * Be aware of your airtime to ensure all voices are heard.
+  
+9. Embrace discomfort
+
+10. Make decisions by consensus

@@ -204,11 +204,9 @@ class: middle, center
 too.*** (Brianna)]
 ]
 
---
-
 .pull-right[
 ```{r, echo = FALSE, out.width = "100%"}
-knitr::include_graphics("images/trajectories.jpg")
+knitr::include_graphics("images/trajectories_annotated.jpeg")
 ```
 ]
 
@@ -226,7 +224,8 @@ class: middle
 
 ![](images/anna_jerome.png)
 
---
+</br>
+</br>
 <center>
 ***Meta-level intentions are likely to reside in the mechanisms of
 interaction rather than in their explicit contents.*** (Sfard, 2001)
@@ -283,17 +282,17 @@ environment
 class: middle
 
 <center>
-.large[***Such constant negations of mathematical thinking and work could be
-considered a type of microaggression.*** (Gholson & Martin, 2019)]
+.large[***Such tedious micro-confirmations in mathematical work for a student
+might be experienced as pain.*** (Gholson & Martin, 2020)]
 </center>
 
 --
 
-- Not every microinvalidation experienced by as student rises to the form of 
-oppression
-
-- For some groups and in many contexts, the structures that shape a discipline 
-in the classroom can create feelings of oppression.
+<center>
+.large[***As high-status students interact more in the group, they learn more
+from the task; as low-status students interact less, they in turn learn
+less.*** (Cohen et al., 1999)]
+</center>
 
 ---
 
@@ -383,6 +382,12 @@ class: middle
 .large[.rhubarb[Language constructs realities in the classroom, reinforcing and
 diminishing student identities.]]
 
+--
+
+.large[.bayberry[***Assigning competence is a public statement that specifically
+recognizes the intellectual contribution a student has made to the group
+task.*** (Cohen et al., 1999)]]
+
 ---
 
 class: center, middle, inverse
@@ -407,7 +412,8 @@ class: center, middle, inverse
 
 .larger[.mango[Let's end with a conversation...]]
 
-.large[What successes have had when structuring equitable group collaborations?]
+.large[What successes have you had when structuring equitable group
+collaborations?]
 
 
 
