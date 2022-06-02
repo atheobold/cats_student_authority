@@ -215,42 +215,6 @@ knitr::include_graphics("images/trajectories_annotated.jpeg")
 class: middle
 
 <center>
-.larger[.gray[Anna & Jerome]]
-</br>
-.large[(Langer-Osuna, 2016)]
-</center>
-
---
-
-![](images/anna_jerome.png)
-
-</br>
-</br>
-<center>
-***Meta-level intentions are likely to reside in the mechanisms of
-interaction rather than in their explicit contents.*** (Sfard, 2001)
-
----
-
-class: center
-
-.pull-left[
-.larger[**The role of the teacher**]
-
-- Anna was positioned as behaving like a "good student" twice and off-task once
-
-- Jerome was positioned as off-task 10 times and on-task once
-]
-
-```{r, echo = FALSE, out.height = "20%", out.width = "40%", fig.align = 'right'}
-knitr::include_graphics("images/teacher_influence.jpg")
-```
-
----
-
-class: middle
-
-<center>
 .larger[.rhubarb[Uma & Sean]]  
 </br>
 .large[(Theobold & Williams, 2022)]
@@ -279,20 +243,51 @@ environment
 
 ---
 
+class: middle, center, inverse
+
+.large[.honey[Meta-level intentions are likely to reside in the mechanisms of
+interaction rather than in their explicit contents. (Sfard, 2001)]]
+
+--
+
+.large[.gray[As high-status students interact more in the group, they learn more
+from the task; as low-status students interact less, they in turn learn
+less. (Cohen et al., 1999)]]
+
+--
+
+.large[.black[Such tedious micro-confirmations in mathematical work for a student
+might be experienced as pain.(Gholson & Martin, 2020)]]
+
+---
+
 class: middle
 
 <center>
-.large[***Such tedious micro-confirmations in mathematical work for a student
-might be experienced as pain.*** (Gholson & Martin, 2020)]
+.larger[.gray[Anna & Jerome]]
+</br>
+.large[(Langer-Osuna, 2016)]
 </center>
 
 --
 
-<center>
-.large[***As high-status students interact more in the group, they learn more
-from the task; as low-status students interact less, they in turn learn
-less.*** (Cohen et al., 1999)]
-</center>
+![](images/anna_jerome.png)
+
+---
+
+class: center
+
+.pull-left[
+.larger[**The role of the teacher**]
+
+- Anna was positioned as behaving like a "good student" twice and off-task once
+
+- Jerome was positioned as off-task 10 times and on-task once
+]
+
+```{r, echo = FALSE, out.height = "20%", out.width = "40%", fig.align = 'right'}
+knitr::include_graphics("images/teacher_influence.jpg")
+```
 
 ---
 
